@@ -42,7 +42,7 @@
   "devDependencies": {
     "@types/jest": "25.1.1",
     "@types/node": "13.7.0",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "husky": "4.2.5",
     "tsdx": "0.13.2",
     "tslib": "1.10.0",
